@@ -38,7 +38,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:cvetkovocanecpetar@gmail.com" target="blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/cvetkovocanecpetar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.petar-cv.com" target="blank">
