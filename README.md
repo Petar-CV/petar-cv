@@ -1,13 +1,11 @@
 <!-- Title and intro -->
 <h1 align="center">Hi 👋, I'm Petar Cvetko Voćanec</h1>
-<h2 align="center">Full stack web developer situated in Croatia. Passionate about new things and enthusiastic about the future ✨</h2>
+<h3 align="center">Full stack web developer situated in Croatia. Passionate about new things and enthusiastic about the future ✨</h3>
 
-<br>
 <hr>
-<br>
 
 <!-- GitHub stats -->
-<h2 align="center">🤝 GitHub stats 🤝</h2>
+<h3 align="center">🤝 GitHub stats 🤝</h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=petar-cv&column=-1&no-bg=true&no-frame=true&theme=monokai" alt="petar-cv" />
@@ -26,12 +24,10 @@
     <img src="https://komarev.com/ghpvc/?username=petar-cv&label=Profile%20views&color=e34c26&style=for-the-badge" alt="petar-cv" />
 </p>
 
-<br>
 <hr>
-<br>
 
 <!-- Socials -->
-<h2 align="center">🤝 Connect with me on the following platforms 🤝</h2>
+<h3 align="center">🤝 Connect with me on the following platforms 🤝</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/pcvetkovocanec" target="blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/Petar Cvetko Voćanec-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -54,12 +50,10 @@
     </a>
 </p>
 
-<br>
 <hr>
-<br>
 
 <!-- Languages and tools -->
-<h2 align="center">🔧 Languages and tools 🔨</h2>
+<h3 align="center">🔧 Languages and tools 🔨</h3>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
@@ -129,12 +123,10 @@
     </a>
 </p>
 
-<br>
 <hr>
-<br>
 
 <!-- Certifications -->
-<h2 align="center">📚 Education 📖</h2>
+<h3 align="center">📚 Education 📖</h3>
 <p align="center">
     <a href="https://www.udemy.com/user/petar-cvetko-vocanec/" target="blank">
         <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
