@@ -99,6 +99,10 @@
     <a href="https://www.postgresql.org/" target="blank">
         <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://firebase.google.com/" target="blank">
+        <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+    </a>
 </p>
     
 <h3 align="center">DevOps</h3>
@@ -110,16 +114,12 @@
     <a href="https://www.nginx.com/" target="blank">
         <img alt="NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
     </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.jenkins.io/" target="blank">
-        <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
-    </a>
 </p>
 
-<h3 align="center">Web3</h3>
+<h3 align="center">Mobile</h3>
 <p align="center">
-    <a href="https://soliditylang.org/" target="blank">
-        <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white">
+    <a href="https://flutter.dev/" target="blank">
+        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
     </a>
 </p>
 
@@ -130,5 +130,9 @@
 <p align="center">
     <a href="https://www.udemy.com/user/petar-cvetko-vocanec/" target="blank">
         <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.coursera.org/user/aeb44d229b57cc904e1181939e657453" target="blank">
+        <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2?style=for-the-badge&logo=Coursera&logoColor=white">
     </a>
 </p>
