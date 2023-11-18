@@ -126,6 +126,16 @@
 <hr>
 
 <!-- Certifications -->
+<h3 align="center">🏅 Certifications 🥇</h3>
+<p align="center">
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8RHNW4JX2DRM" target="blank">
+        <img alt="Google Cybersecurity Professional Certificate" src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-%230056D2?style=for-the-badge&logo=Coursera&logoColor=white">
+    </a>
+</p>
+
+<hr>
+
+<!-- Education -->
 <h3 align="center">📚 Education 📖</h3>
 <p align="center">
     <a href="https://www.udemy.com/user/petar-cvetko-vocanec/" target="blank">
