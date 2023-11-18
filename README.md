@@ -37,6 +37,10 @@
         <img alt="GitHub" src="https://img.shields.io/badge/Petar_CV-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     &nbsp;&nbsp;&nbsp;
+    <a href="https://blog.petar-cv.com" target="blank">
+        <img alt="Blog by Petar CV" src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="mailto:cvetkovocanecpetar@gmail.com" target="blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
