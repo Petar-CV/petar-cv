@@ -30,7 +30,7 @@
 <h3 align="center">🤝 Connect with me on the following platforms 🤝</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/pcvetkovocanec" target="blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/Petar Cvetko Voćanec-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="LinkedIn" src="https://img.shields.io/badge/Petar_Cvetko_Voćanec-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.github.com/Petar-CV" target="blank">
