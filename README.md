@@ -61,14 +61,6 @@
         <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://reactjs.org/" target="blank">
-        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://nextjs.org/" target="blank">
-        <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    </a>
-    &nbsp;&nbsp;&nbsp;
     <a href="https://tailwindcss.com/" target="blank">
         <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     </a>
@@ -98,10 +90,6 @@
     &nbsp;&nbsp;&nbsp;
     <a href="https://www.postgresql.org/" target="blank">
         <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://firebase.google.com/" target="blank">
-        <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
     </a>
 </p>
     
