@@ -29,27 +29,27 @@
 <!-- Socials -->
 <h3 align="center">🤝 Connect with me on the following platforms 🤝</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/pcvetkovocanec" target="blank">
+    <a href="https://www.linkedin.com/in/pcvetkovocanec" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/Petar_Cvetko_Voćanec-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.github.com/Petar-CV" target="blank">
+    <a href="https://www.github.com/Petar-CV" target="_blank">
         <img alt="GitHub" src="https://img.shields.io/badge/Petar_CV-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://blog.petar-cv.com" target="blank">
+    <a href="https://blog.petar-cv.com" target="_blank">
         <img alt="Blog by Petar CV" src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="mailto:cvetkovocanecpetar@gmail.com" target="blank">
+    <a href="mailto:cvetkovocanecpetar@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.petar-cv.com" target="blank">
+    <a href="https://www.petar-cv.com" target="_blank">
         <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/v6mtt5920gmowgox6qlxszmnk" target="blank">
+    <a href="https://open.spotify.com/user/v6mtt5920gmowgox6qlxszmnk" target="_blank">
         <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
     </a>
 </p>
@@ -61,56 +61,56 @@
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-    <a href="https://angular.io/" target="blank">
+    <a href="https://angular.io/" target="_blank">
         <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://tailwindcss.com/" target="blank">
+    <a href="https://tailwindcss.com/" target="_blank">
         <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://cypress.io/" target="blank">
+    <a href="https://cypress.io/" target="_blank">
         <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://jestjs.io/" target="blank">
+    <a href="https://jestjs.io/" target="_blank">
         <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
     </a>
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-    <a href="https://nodejs.org/en/" target="blank">
+    <a href="https://nodejs.org/en/" target="_blank">
         <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://nestjs.com/" target="blank">
+    <a href="https://nestjs.com/" target="_blank">
         <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.prisma.io/" target="blank">
+    <a href="https://www.prisma.io/" target="_blank">
         <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.postgresql.org/" target="blank">
+    <a href="https://www.postgresql.org/" target="_blank">
         <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
 </p>
     
 <h3 align="center">DevOps</h3>
 <p align="center">
-    <a href="https://www.docker.com/" target="blank">
+    <a href="https://www.docker.com/" target="_blank">
         <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.nginx.com/" target="blank">
+    <a href="https://www.nginx.com/" target="_blank">
         <img alt="NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
     </a>
 </p>
 
 <h3 align="center">Mobile</h3>
 <p align="center">
-    <a href="https://flutter.dev/" target="blank">
+    <a href="https://flutter.dev/" target="_blank">
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
     </a>
 </p>
@@ -120,7 +120,7 @@
 <!-- Certifications -->
 <h3 align="center">🏅 Certifications 🥇</h3>
 <p align="center">
-    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8RHNW4JX2DRM" target="blank">
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8RHNW4JX2DRM" target="_blank">
         <img alt="Google Cybersecurity Professional Certificate" src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-%230056D2?style=for-the-badge&logo=Coursera&logoColor=white">
     </a>
 </p>
@@ -130,11 +130,11 @@
 <!-- Education -->
 <h3 align="center">📚 Education 📖</h3>
 <p align="center">
-    <a href="https://www.udemy.com/user/petar-cvetko-vocanec/" target="blank">
+    <a href="https://www.udemy.com/user/petar-cvetko-vocanec/" target="_blank">
         <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.coursera.org/user/aeb44d229b57cc904e1181939e657453" target="blank">
+    <a href="https://www.coursera.org/user/aeb44d229b57cc904e1181939e657453" target="_blank">
         <img alt="Coursera" src="https://img.shields.io/badge/Coursera-%230056D2?style=for-the-badge&logo=Coursera&logoColor=white">
     </a>
 </p>
